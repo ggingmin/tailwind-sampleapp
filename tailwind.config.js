@@ -9,14 +9,13 @@ module.exports = {
     },
     extend: {
       colors: {
-        'blue': '#0439D9',
-        'skyblue': '#1fb6ff',
-        'blue-light': '#0D51D9',
-        'green-pale': '#80BFA8',
-        'green-light': '#7e5bef',
+        'blue': '#035AA6',
+        'blue-light': '#048ABF',
+        'green': '#03A678',
+        'green-light': '#88BF50',
         'gray-dark': '#273444',
         'gray': '#8492a6',
-        'gray-light': '#d3dce6',
+        'gray-light': '#F2F2F2',
       }
     },
   },
